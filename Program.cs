@@ -141,7 +141,7 @@ async Task ProcessInstructionsFileAsync(ChatCompletionAgent agent, AgentThread t
         }
     }
 
-    string html = @"C:\Users\alfarahn\Desktop\ai.html";
+    string html = @"C:\Users\username\Desktop\ai.html";
 
     ProcessStartInfo psi = new ProcessStartInfo
     {
