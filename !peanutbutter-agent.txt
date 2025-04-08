@@ -1,0 +1,7 @@
+List all possible directories where you can save files.
+
+Navigate to https://www.costco.com/
+Click the search field
+Search for Peanutbutter
+
+Save a beautiful, responsive HTML file named "ai.html" that describes the peanutbutter stocks and prices

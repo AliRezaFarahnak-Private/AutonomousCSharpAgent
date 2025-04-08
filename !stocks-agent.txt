@@ -1,0 +1,24 @@
+List all possible directories where you can save files.
+
+Navigate to Google Finance.
+Click on the first stock listed under "You may be interested in."
+Select the one-month duration option.
+Outline the trends, news, and risks 
+Navigate to Bing and search for news related to this stock.
+Outline the trends, news, and risks 
+
+Navigate to Google Finance.
+Click on the second stock listed under "You may be interested in."
+Select the one-month duration option.
+Outline the trends, news, and risks 
+Navigate to Bing and search for news related to this stock.
+Outline the trends, news, and risks 
+
+Navigate to Google Finance.
+Click on the third stock listed under "You may be interested in."
+Select the one-month duration option.
+Outline the trends, news, and risks 
+Navigate to Bing and search for news related to this stock.
+Outline the trends, news, and risks 
+
+Save a beautiful, responsive HTML file named "ai.html" that displays stocks in a column layout where each column represents the stock and name of the company. The layout should use a background color (green for low risk, yellow for medium risk, and red for high risk), alongside detailed risk explanations, recent news updates, and clear investment recommendations presented in black text.
